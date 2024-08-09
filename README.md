@@ -1,16 +1,13 @@
-## Hi there 👋
+  ## Boas vindas ao meu perfil 💔
 
-<!--
-**Lopes4m/Lopes4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bruno Gabriel mais conhecido como Lopes 🥇
 
-Here are some ideas to get you started:
+- to com sono nesse exato momento
+- Só quero uma moto rs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você entrar em contato comigo 📫
+
+- brunog271208@gmail.com
+
+![](https://media.tenor.com/-cQWzpkkqT0AAAAM/grau-moto.gif)
+
